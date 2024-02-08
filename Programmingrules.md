@@ -41,8 +41,8 @@ An indentation consists of 4 spaces or a tab of 4 spaces. Make sure to configure
 
 ## Space
 - Make sure to add a space after each comma in methods arguments definition.
-    - ✅ ```JavaScriptdeal_effect(user, actual_targets)```
-    - ❌ ```JavaScriptdeal_effect(user,actual_targets)```
+    - ✅ ```deal_effect(user, actual_targets)```
+    - ❌ ```deal_effect(user,actual_targets)```
 - Make sure to add a space between an operator and an expression.
     - ✅ ```a = b + c```
     - ❌ ```a=b+c```
