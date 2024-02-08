@@ -1,3 +1,5 @@
+## Code Style Guide
+
 ## General information
 
 Main programming Language: JavaScript
