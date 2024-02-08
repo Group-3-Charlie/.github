@@ -1,4 +1,4 @@
-## Code Style Guide
+# Code Style Guide
 
 ## General information
 
