@@ -4,11 +4,10 @@
 
 - [Arnaud Michel](https://github.com/MrArnaudMichel)
 - [Quentin Macheda](https://github.com/QuentinMacheda)
-- [Aaron Broderick](https://github.com/AaronBrdrck)
 
 ## Project
 - [AIctron](https://github.com/Group-3-Charlie/AIctron)
-- [AIctron-Server](https://github.com/Group-3-Charlie/Backend)
+- [AIctron-Server](https://github.com/Group-3-Charlie/AItcron-Backend)
 
 ## Project Description
 
