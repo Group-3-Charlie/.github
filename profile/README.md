@@ -7,7 +7,7 @@
 
 ## Project
 - [AIctron](https://github.com/Group-3-Charlie/AIctron)
-- [AIctron-Server](https://github.com/Group-3-Charlie/AItcron-Backend)
+- [AIctron-Server](https://github.com/Group-3-Charlie/Backend)
 
 ## Project Description
 
